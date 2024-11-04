@@ -1,9 +1,18 @@
 <h1 align="center">Hi there, I'm Osayeed Jaber 👋</h1>
+
 <p align="center">
-    <a href="https://github.com/Osayeedjaber">GitHub</a> •
-    <a href="https://www.instagram.com/0.os4yed__/">Instagram</a> •
-    <a href="https://twitter.com/your-twitter">Twitter</a> •
-    <a href="mailto:your-osayeedjaber18@gmail.com">Email</a>
+  <a href="https://github.com/Osayeedjaber">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=blueviolet" alt="GitHub badge" />
+  </a>
+  <a href="https://www.instagram.com/0.os4yed__/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C&color=ff69b4" alt="Instagram badge" />
+  </a>
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=skyblue" alt="Twitter badge" />
+  </a>
+  <a href="mailto:osayeedjaber18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=red" alt="Email badge" />
+  </a>
 </p>
 
 ---
