@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Osayeed Jaber 👋</h1>
+<h1 align="center">Hi there, I'm Osayeed 👋</h1>
 <p align="center">
     <a href="https://github.com/your-username">GitHub</a> •
     <a href="https://instagram.com/your-instagram">Instagram</a> •
