@@ -8,27 +8,33 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZoc3pwMzdjZmtwenp2YmNrZXhuMmN6NzZlYm5pb29hcjU4YTVzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Dazai gif" width="60" height="60"/>
+</p>
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=Osayeedjaber&color=blueviolet" alt="profile-views">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=6D93F2&center=true&vCenter=true&width=500&lines=Developer+%7C+Full-stack+Enthusiast+%7C+Lifelong+Learner;Building+for+the+future...;Always+learning+something+new+💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=6D93F2&center=true&vCenter=true&width=500&lines=Developer+%7C+Full-stack+Enthusiast+%7C+Lifelong+Learner;Slightly+Chaotic+and+Loves+Ramen🍜;Learning+New+Skills+Like+a+Protagonist+💡" alt="Typing animation" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm Osayeed, a **full-stack developer** passionate about building scalable applications and crafting memorable user experiences. With a foundation in **JavaScript** and **Python**, I focus on leveraging modern tech stacks to bring projects to life. From **frontend aesthetics** to **backend logic**, I enjoy every part of the journey.
+Hey! I'm Osayeed, a **full-stack developer** who's just as passionate about writing clean code as he is about anime marathons. My work is all about blending **frontend aesthetics** and **backend logic** to create cool, scalable apps. Think of me as the character who grinds to level up, always looking for new quests!
 
-- 🎓 **Currently learning:** Next.js, TypeScript, and advanced backend techniques
-- 💼 **Seeking Opportunities:** Always open to collaborating on exciting projects
-- 📬 **Get in Touch:** Check out my socials above to connect!
+- 🎓 **Currently learning:** Next.js, TypeScript, and backend techniques worthy of the **Hokage**
+- 💼 **Seeking Allies:** Always open to teaming up on exciting projects (especially if they involve ramen or new tech!)
+- 📬 **Get in Touch:** Connect with me on my socials above!
 
 ---
 
 ### 🚀 Tech Stack
 
-Here’s a snapshot of my go-to tools and languages:
+Check out my go-to tools, or as I like to think of them, my **weapons of choice**:
 
 | Languages   | Frameworks/Libraries     | Tools            |
 |-------------|---------------------------|------------------|
@@ -41,16 +47,16 @@ Here’s a snapshot of my go-to tools and languages:
 
 ### 📌 Featured Projects
 
-Here are some recent projects that showcase my skills and interests:
+Here are some recent projects that showcase my skills and ambitions (as epic as an anime arc):
 
 - **[Project Name 1](https://github.com/your-username/project-name-1)**  
-  <sub><i>• Description of the project and your role in it</i></sub>
+  <sub><i>• Description of the project and your role in it, complete with power-ups and new abilities unlocked</i></sub>
   
 - **[Project Name 2](https://github.com/your-username/project-name-2)**  
-  <sub><i>• Highlight specific technologies used, unique features, and any notable achievements</i></sub>
+  <sub><i>• The technologies used, hidden skills, and the battle against bugs 🐛</i></sub>
   
 - **[Project Name 3](https://github.com/your-username/project-name-3)**  
-  <sub><i>• Describe the project’s purpose, any user feedback, and how it made an impact</i></sub>
+  <sub><i>• Project purpose, feedback, and how it made an impact, like saving the world (or at least making it better)!</i></sub>
 
 > 👉 **Explore more of my work on my [GitHub profile](https://github.com/your-username)!**
 
@@ -82,4 +88,4 @@ Here are some recent projects that showcase my skills and interests:
 
 ---
 
-<p align="center">Thanks for visiting! Let's build something great together! 🚀</p>
+<p align="center">Thanks for stopping by! Let's team up and make something epic! 🚀✨</p>
