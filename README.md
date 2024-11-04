@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZoc3pwMzdjZmtwenp2YmNrZXhuMmN6NzZlYm5pb29hcjU4YTVzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Dazai gif" width="255" height="345"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZoc3pwMzdjZmtwenp2YmNrZXhuMmN6NzZlYm5pb29hcjU4YTVzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Dazai gif" width="255" height="255"/>
 </p>
 
 ---
