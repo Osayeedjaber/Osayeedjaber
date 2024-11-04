@@ -85,13 +85,13 @@ Here are some recent projects that showcase my skills and ambitions (as epic as 
 <a href="https://github.com/Osayeedjaber">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
 </a>
-<a href="https://instagram.com/your-instagram">
+<a href="https://www.instagram.com/0.os4yed__/"
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=flat-square&logo=instagram&logoColor=white" alt="Instagram Badge" />
 </a>
 <a href="https://twitter.com/your-twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter Badge" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:osayeedjaber18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 
