@@ -1,14 +1,14 @@
-<h1 align="center">Hi there, I'm Osayeed 👋</h1>
+<h1 align="center">Hi there, I'm Osayeed Jaber 👋</h1>
 <p align="center">
-    <a href="https://github.com/your-username">GitHub</a> •
-    <a href="https://instagram.com/your-instagram">Instagram</a> •
+    <a href="https://github.com/Osayeedjaber">GitHub</a> •
+    <a href="https://www.instagram.com/0.os4yed__/">Instagram</a> •
     <a href="https://twitter.com/your-twitter">Twitter</a> •
-    <a href="mailto:your-email@example.com">Email</a>
+    <a href="mailto:your-osayeedjaber18@gmail.com">Email</a>
 </p>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet" alt="profile-views">
+<img src="https://komarev.com/ghpvc/?username=Osayeedjaber&color=blueviolet" alt="profile-views">
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=6D93F2&center=true&vCenter=true&width=500&lines=Developer+%7C+Full-stack+Enthusiast+%7C+Lifelong+Learner;Building+for+the+future...;Always+learning+something+new+💡" alt="Typing animation" />
@@ -59,15 +59,15 @@ Here are some recent projects that showcase my skills and interests:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Osayeed's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Osayeedjaber&show_icons=true&theme=radical" alt="Osayeed's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osayeedjaber&layout=compact&theme=radical" alt="Most Used Languages" width="48%" />
 </p>
 
 ---
 
 ### 📢 Connect with Me
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/Osayeedjaber">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge" />
 </a>
 <a href="https://instagram.com/your-instagram">
