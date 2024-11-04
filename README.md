@@ -26,7 +26,7 @@
 <img src="https://komarev.com/ghpvc/?username=Osayeedjaber&color=blueviolet" alt="profile-views">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=6D93F2&center=true&vCenter=true&width=500&lines= Developer+%7C+Full-stack+Enthusiast+%7C+Lifelong+Learner;Slightly+Chaotic+and+Loves+Ramen🍜;Learning+New+Skills+Like+a+Protagonist+💡" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=500&color=6D93F2&center=true&vCenter=true&width=500&lines=Developer+%7C+Full-stack+%7C+Lifelong+Learner;Slightly+Chaotic+and+Loves+Ramen🍜;Learning+New+Skills+Like+a+Protagonist+💡" alt="Typing animation" />
 </p>
 
 ---
