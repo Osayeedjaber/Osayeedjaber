@@ -58,8 +58,8 @@ Check out my go-to tools, or as I like to think of them, my **weapons of choice*
 
 Here are some recent projects that showcase my skills and ambitions (as epic as an anime arc):
 
-- **[Project Name 1](https://github.com/your-username/project-name-1)**  
-  <sub><i>• Description of the project and your role in it, complete with power-ups and new abilities unlocked</i></sub>
+- **[todowithGlassmorphism](https://github.com/Osayeedjaber/todolist?tab=readme-ov-file)**  
+  <sub><i>• a sleek and efficient tool designed to help you organize your tasks with a touch of futuristic style. This project is built using React for a dynamic user interface and Tailwind CSS for stylish, responsive design. It's a simple yet powerful application to manage your daily tasks effectively. </i></sub>
   
 - **[Project Name 2](https://github.com/your-username/project-name-2)**  
   <sub><i>• The technologies used, hidden skills, and the battle against bugs 🐛</i></sub>
